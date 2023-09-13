@@ -2,4 +2,4 @@
 
 ### Odoo Template
 
-- <a herf="https://github.com/SawLwinnOo/odoo_technical_articles/blob/main/doc/qweb.md">Q web</a>
+- <a herf="https://github.com/SawLwinnOo/odoo_technical_articles/blob/main/doc/qweb.md">Qweb</a>
